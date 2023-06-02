@@ -14,7 +14,7 @@ pip install matplotlib
 pip install scipy
 pip install graphviz
 pip install seaborn
-```
+
 
 ## Usage
 
@@ -46,7 +46,7 @@ sklearn.neighbors: Implementation of k-nearest neighbors (KNN) algorithms, such 
 sklearn.naive_bayes: Implementation of naive Bayes classifiers, including GaussianNB based on the Gaussian distribution assumption.
 
 sklearn.cluster: Algorithms for clustering, such as KMeans for partitioning data into clusters based on similarity.
-```
+
 
 ## The Connection between the files
 
@@ -58,4 +58,4 @@ After that we started to apply changes on the data set in the FinalProject.ipynb
 preprocessing, predictions, callsifications etc.
 
 We also used the file DecisionTree.ipynb to help us understand how the decision trees work.
-```
+
