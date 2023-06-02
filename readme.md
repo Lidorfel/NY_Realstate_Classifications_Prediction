@@ -1,5 +1,7 @@
 # Authors 
+
 Lidor Feldman 209297035, Mohamad Abu Jafar 213169915
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the pacages.
