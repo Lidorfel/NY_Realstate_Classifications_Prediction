@@ -49,6 +49,7 @@ sklearn.cluster: Algorithms for clustering, such as KMeans for partitioning data
 ```
 
 ## The Connection between the files
+
 ```bash
 we first examined and described the dataset and the relevant data to our project in the
 ProjectEDA.ipynb file which helped us understand what are we facing (this was the EDA part of the project)
@@ -58,3 +59,4 @@ preprocessing, predictions, callsifications etc.
 
 We also used the file DecisionTree.ipynb to help us understand how the decision trees work.
 ```
+
