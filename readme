@@ -1,5 +1,7 @@
 # Authors 
+
 Lidor Feldman 209297035, Mohamad Abu Jafar 213169915
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the pacages.
@@ -47,6 +49,7 @@ sklearn.cluster: Algorithms for clustering, such as KMeans for partitioning data
 ```
 
 ## The Connection between the files
+
 ```bash
 we first examined and described the dataset and the relevant data to our project in the
 ProjectEDA.ipynb file which helped us understand what are we facing (this was the EDA part of the project)
